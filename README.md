@@ -4,7 +4,9 @@ This is a starting point for a Next.JS that uses TypeScript and Chakra UI.
 
 ## Use This
 
-```git clone https://github.com/AshMW2724/nextjs-typescript-chakra```
+```
+  git clone https://github.com/AshMW2724/nextjs-typescript-chakra
+```
 
 ## Documentation
 
