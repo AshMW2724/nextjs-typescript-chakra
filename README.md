@@ -6,6 +6,8 @@ This is a starting point for a Next.JS that uses TypeScript and Chakra UI.
 
 ```
   git clone https://github.com/AshMW2724/nextjs-typescript-chakra
+  npm install
+  npm run dev
 ```
 
 ## Documentation
