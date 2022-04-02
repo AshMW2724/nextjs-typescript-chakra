@@ -1,6 +1,6 @@
 # Next.JS + TypeScript + Chakra
 
-This is a starting point for a Next.JS that uses TypeScript and Chakra UI.
+This is a starting point for a Next.JS project that uses TypeScript and Chakra UI.
 
 This project also includes the use of [Prettier](https://prettier.io/) to make all the code pretty. [VS Code extension for Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
